@@ -1,4 +1,4 @@
-# Web-Application-Security
+# Exploiting-Web-Application
 
 Most of applications are built by developers who have little understanding of the security. 
 These devolopers simply provide functional code but sometimes problems arise in their code since there is a huge difference between producing code that is
