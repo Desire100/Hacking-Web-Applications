@@ -13,5 +13,5 @@ It gives the brief on the web applications and how they functions.
 #### HTTP Status Code
 It gives most common http response status code meaning.
 
-#### HTTP Headers
+#### [HTTP Headers](https://github.com/Desire100/Hacking-Web-Applications/blob/master/HTTP%20Headers.pdf)
 Give details on both http requests and responses headers.
