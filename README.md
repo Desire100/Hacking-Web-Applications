@@ -1,4 +1,4 @@
-# Exploiting-Web-Application
+# Exploiting-Web-Applications
 
 Most of applications are built by developers who have little understanding of the security. 
 These devolopers simply provide functional code but sometimes problems arise in their code since there is a huge difference between producing code that is
@@ -10,7 +10,7 @@ exploiting  security imperfections in web applications.
 #### Intro to web app
 It gives the brief on the web applications and how they functions.
 
-#### HTTP Status Code
+#### [HTTP Status Code](https://github.com/Desire100/Hacking-Web-Applications/blob/master/HTTP%20Status%20Code.pdf)
 It gives most common http response status code meaning.
 
 #### [HTTP Headers](https://github.com/Desire100/Hacking-Web-Applications/blob/master/HTTP%20Headers.pdf)
